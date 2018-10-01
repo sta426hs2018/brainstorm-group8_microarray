@@ -1,6 +1,6 @@
 # Microarray
 
-Summary: A means to measure or detect simultaneously the expression of a large number of genes. This is especially useful to compare the expression under different conditions, after specifying a reference DNA or RNA having the same expression level thourghout.  
+Summary: A means to measure or detect simultaneously the expression of a large number of genes. This is especially useful to compare the expression under different conditions, after specifying a reference DNA or RNA having the same expression level throughout.  
 
 
 Useful Links:
