@@ -14,6 +14,8 @@ https://www.sciencedirect.com/topics/food-science/microarray
 
 http://www.1lec.com/microarray/
 
+https://www.genome.gov/10000533/dna-microarray-technology/
+
 test edit
 
 
